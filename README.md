@@ -39,10 +39,12 @@ Reconstructing 3D city models from street view images.
  ## We have two different ways to present our codes:
  1. This is `code in line`, which uses "`". 
  2. This is
-    ```code in block
+    ```
     code in block
-    ```code in block
-    ,which uses "```".
+    code in block
+    code in block
+    ```
+    ,which uses "```" that takes up a single line.
 
 # Want to construct a table in .md file? No worry! We can use `|` to seperate columns, and `-` to seperate headers and content.
   ## Here's an example:
