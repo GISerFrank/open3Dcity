@@ -15,7 +15,7 @@ Reconstructing 3D city models from street view images.
 
 # Oops! I forgot to specify the grammar. So level 1 title starts with "#", level 2 title starts with "##", level 3 title starts with "###", ... I believe you've noticed the regularity. Let's move on.
 
-# Here comes the second part: **Emphasis**. We can use **BOLD**("**"") or *Italic*("*"). Also, we can combine them together like ***this***("***").
+# Here comes the second part: **Emphasis**. We can use **BOLD**("\*\*") or *Italic*("*"). Also, we can combine them together like ***this***("***").
 
 # Now we're going to do something different: ***Lists***.
 
