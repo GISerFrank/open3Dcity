@@ -41,7 +41,8 @@ Reconstructing 3D city models from street view images.
  2. This is
     ```code in block
     code in block
-    code in block```, which uses "```".
+    ```code in block
+    ,which uses "```".
 
 # Want to construct a table in .md file? No worry! We can use `|` to seperate columns, and `-` to seperate headers and content.
   ## Here's an example:
