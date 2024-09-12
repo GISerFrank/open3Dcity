@@ -20,8 +20,8 @@ Reconstructing 3D city models from street view images.
 # Now we're going to do something different: ***Lists***.
 
 # There are two types of lists: 
-  ## - unordered list
-  ## 1. ordered list
+  - unordered list
+  1. ordered list
   ## The tip to remember this is ordered list starts with numbers, while unordered list starts with none(-).
 
 # **Links** is also a big part, yet with easy grammar. We just put description into a "[]" followed by a "()" containing the link.
